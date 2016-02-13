@@ -1,0 +1,92 @@
+{% extends 'base.html.twig' %}
+
+
+
+{% block title %}Reserve The Villa{% endblock %}
+
+
+
+{% block stylesheets %}{% endblock %}
+
+
+{% block body %}
+	<form action="" method="post">
+		<div class="grid">
+			<div class="row">
+				<div class="cell">
+					<div class="calendar" data-other-days="false" data-format="yyyy/m/d" data-role="calendar" data-week-start="1" data-min-date="{{ dataMin }}" data-multi-select="true" data-exclude="{{  dataExclude }}"></div>
+					<input type="hidden" id="days" name="rsv"/>
+				</div>
+			</div>
+			<div class="row cells6">
+				<div class="cell">
+					<label for="FirstName">First Name</label>
+					<div class="input-control text" data-role="input">
+						<input type="text" name="firstname" class="firstname" id="FirstName" />
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+				<div class="cell">
+					<label for="LastName">Last Name</label>
+					<div class="input-control text" data-role="input">
+						<input type="text" name="lastname" class="lastname" id="LastName" />
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+				<div class="cell">
+					<label for="email">Email</label>
+					<div class="input-control text" data-role="input">
+						<input type="email" name="email" class="email" id="email" />
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+				<div class="cell">
+					<label for="address1">Address 1</label>
+					<div class="input-control text" data-role="input">
+						<input type="text" name="address1" id="address1"/>
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+				<div class="cell">
+					<label for="address2">Address 2 </label>
+					<div class="input-control text" data-role="input">
+						<input type="text" name="address2" id="address2"/>
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+				<div class="cell">
+					<label for="phone">Phone Number</label>
+					<div class="input-control text" data-role="input">
+						<input type="text" name="phone" id="phone"/>
+						<button class="button helper-button clear">
+							<span class="mif-cross"></span>
+						</button>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<button type="submit">Reserve</button>
+			</div>
+		</div>
+	</form>
+	<script>
+		$('form').on("submit", function(e){
+			e.preventDefault();
+			var reservation = $(".calendar").calendar('getDates');
+			$('#days').val(reservation.join("|"));
+			$('form')[0].submit();
+
+
+		});
+	</script>
+{% endblock %}
