@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping http://doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
+  <entity repository-class="AppBundle\Entity\hcv_reservationsRepository" name="AppBundle\Entity\hcv_reservations">
+    <id name="id" type="integer" column="id">
+      <generator strategy="AUTO"/>
+    </id>
+    <field name="confNum" type="string" column="conf_num" length="255"/>
+    <field name="dateOfRsv" type="datetimetz" column="date_of_rsv"/>
+    <field name="firstName" type="string" column="first_name" length="255"/>
+    <field name="lastName" type="string" column="last_name" length="255"/>
+    <field name="email" type="string" column="email" length="255"/>
+    <field name="address1" type="string" column="address_1" length="255"/>
+    <field name="address2" type="string" column="address_2" length="255"/>
+    <field name="phoneNum" type="string" column="phone_num" length="255"/>
+    <field name="daysRsvd" type="simple_array" column="days_rsvd"/>
+    <field name="numOfPpl" type="integer" column="num_of_ppl"/>
+    <field name="price" type="decimal" column="price"/>
+  </entity>
+</doctrine-mapping>

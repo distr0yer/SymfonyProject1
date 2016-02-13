@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd415695-e98c-4101-a5a8-946c9cfbaa93" name="Default" comment="" />
+    <ignored path="www_hcv.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www_hcv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="77" column="46" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+              <folding>
+                <element signature="e#40#78#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metro.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/metro.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="155.04706">
+              <caret line="0" column="283919" selection-start-line="0" selection-start-column="283919" selection-end-line="0" selection-end-column="283919" />
+              <folding>
+                <element signature="e#278129#278444#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hcv_reservations.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/hcv_reservations.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_dev.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reservation.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/reservation.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.5243902">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding>
+                <marker date="1451254641451" expanded="true" signature="126:2774" placeholder="{% block body ...%}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metro-locale.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/metro-locale.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metro-schemes.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/metro-schemes.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="5280" selection-start-line="0" selection-start-column="5280" selection-end-line="0" selection-end-column="5280" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8461539">
+              <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27868852">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/web/css/metro.min.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/reservation.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_hcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/wamp/www/www_hcv" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../www_socialglass" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../www_socialglass/app/Resources/views/base.html.twig" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\www_hcv\app\Resources\views\default" />
+      <recent name="C:\GIT\www_hcv\web\js" />
+      <recent name="C:\GIT\www_hcv\web\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\www_hcv\web\js" />
+      <recent name="C:\GIT\www_hcv\web\images" />
+      <recent name="C:\GIT\www_hcv\web\css" />
+      <recent name="C:\GIT\www_hcv\web" />
+      <recent name="C:\GIT\www_hcv\web\fonts" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/logs/dev.log</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#assetLoader.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#contactUsAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#resConfirmationAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#reservationAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#reservationViewAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40#toolbarAction.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/annotations/aa3b17a06c54069051111edd177f4b93a6b0ac40.cache.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/classes.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/classes.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/classes.php.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/profiler/bb/3b/953bbb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/profiler/index.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/0/7/07e91f08a0954914fa2ee2c3ec850bdb323359beebaec4b72b53eb58e980f310.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/0/8/084e16812c683aa9ee9d2c0b9cee96e358703ddd2e90fe15dd8e9cebd6f168f8.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/0/f/0f57bbf22d63c096e20e2281cc1f6f71a605d80a22cb31668eaf74eda0a59a73.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/1/3/130799437d7002ff4ad95ec59d55ef302bdf98296df2706fd86cebca94e9d457.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/5/4/54ab7705abd7ef78f6e40914d0b61174fbaa8f7be5263f08e9bdc8f27190559a.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/5/6/566640bddfd8c75b04da06b733c7f29952d86c7d4053ca946e2283448fef84ab.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/5/9/592af905864b7de59c7cc0b08e70bd4c746dd7c7652d64ffff519e63bd6d3de2.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/5/c/5cad28cbf856dba6103e0458bf95a1b9dd27896c7f6166934daff12bb522b280.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/5/f/5f7c0352a981e68272bcb5abe57c875a5c595c9398122fc92f47196b1d2c3320.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/6/3/63d6ff4993762fcf585fb541f3440d25b0b6338c1c4be934ab091191ed2aeb37.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/6/6/660e5ab2733cce39e18428984e60c627148d2112774fc6720b5a91903f48a128.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/7/1/71ab5bba94ab4ed35ca472a7230fcdc9fea47e267c76fdcdc3e6b9c851b57b6d.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/7/5/757b2d150617b4c181f243050ace9149a2b966360c9243281bc90ae736454a5d.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/8/0/808b63ef0bd6bca67fec8e64d5a0be2ae78d30f2017ec9f77338ea93a9b756f4.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/8/d/8d29691c5379eb0d2efd2b380f12c1a6f0ca70382283699ac444784bc65f3159.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/9/7/97b28e306ee7afc4b8cff334b2b7ecc02e8fc49e957b527d973fd561e7d53287.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/a/b/ab22ba1d0ac05901ed3d0d2a7896316dad42a0dec1cd0d2d3a88d1bc9f105715.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/c/3/c33543d1f53cf5e829e38ac9f8fd0a46a39a4e1fa3491cd893ab760db862ff30.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/d/b/dba56cba957835f01a43e502a5efaa97c8c952609287b5651e944879198828ff.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/d/e/def310f9213c38e50bb994a04ddf0b255a7a86d2812ff2c592aedfbc733eb1c6.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/e/0/e0305fe8d2ca158de0f66c119d96310f3bb635527772c5c62ec82f6b48ebbd29.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/e/9/e9048fd7511eb4d781673f6fa0814bf5fea180eb7262f6cf116705f58ac9d203.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/f/4/f4b442cf8b6ea8f9979950234411da9abb2fe3fed7f01562dd6e16766ae4b1cd.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/cache/dev/twig/f/7/f73e236cfaf52b4dab9b68c7b72f4b21fb49c5d41d1994c6d33d8fd64a8b4308.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd415695-e98c-4101-a5a8-946c9cfbaa93" name="Default" comment="" />
+      <created>1450637699096</created>
+      <option name="number" value="Default" />
+      <updated>1450637699096</updated>
+    </task>
+    <task id="LOCAL-00078" summary="adding a few views">
+      <created>1451146636145</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146636145</updated>
+    </task>
+    <task id="LOCAL-00079" summary="adding a few views">
+      <created>1451146661741</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146661741</updated>
+    </task>
+    <task id="LOCAL-00080" summary="adding a few views">
+      <created>1451146719707</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146719708</updated>
+    </task>
+    <task id="LOCAL-00081" summary="adding a few views">
+      <created>1451146794802</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146794802</updated>
+    </task>
+    <task id="LOCAL-00082" summary="adding a few views">
+      <created>1451146867313</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146867313</updated>
+    </task>
+    <task id="LOCAL-00083" summary="adding a few views">
+      <created>1451146905705</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146905705</updated>
+    </task>
+    <task id="LOCAL-00084" summary="adding a few views">
+      <created>1451146938331</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1451146938331</updated>
+    </task>
+    <task id="LOCAL-00085" summary="adding a few views">
+      <created>1451232982408</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1451232982408</updated>
+    </task>
+    <task id="LOCAL-00086" summary="adding a few views">
+      <created>1451233134730</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1451233134730</updated>
+    </task>
+    <task id="LOCAL-00087" summary="adding a few views">
+      <created>1451233196470</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1451233196470</updated>
+    </task>
+    <task id="LOCAL-00088" summary="adding a few views">
+      <created>1451233256176</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1451233256176</updated>
+    </task>
+    <task id="LOCAL-00089" summary="adding a few views">
+      <created>1451233295412</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1451233295412</updated>
+    </task>
+    <task id="LOCAL-00090" summary="adding a few views">
+      <created>1451233381842</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1451233381842</updated>
+    </task>
+    <task id="LOCAL-00091" summary="adding a few views">
+      <created>1451235381708</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1451235381709</updated>
+    </task>
+    <task id="LOCAL-00092" summary="adding a few views">
+      <created>1451235735086</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1451235735087</updated>
+    </task>
+    <task id="LOCAL-00093" summary="adding a few views">
+      <created>1451236274738</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1451236274738</updated>
+    </task>
+    <task id="LOCAL-00094" summary="adding a few views">
+      <created>1451236551816</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1451236551816</updated>
+    </task>
+    <task id="LOCAL-00095" summary="adding a few views">
+      <created>1451240497401</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1451240497403</updated>
+    </task>
+    <task id="LOCAL-00096" summary="adding a few views">
+      <created>1451240627746</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1451240627746</updated>
+    </task>
+    <task id="LOCAL-00097" summary="adding a few views">
+      <created>1451240721642</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1451240721642</updated>
+    </task>
+    <task id="LOCAL-00098" summary="adding a few views">
+      <created>1451240816319</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1451240816319</updated>
+    </task>
+    <task id="LOCAL-00099" summary="adding a few views">
+      <created>1451241940260</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1451241940260</updated>
+    </task>
+    <task id="LOCAL-00100" summary="adding a few views">
+      <created>1451242397873</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1451242397873</updated>
+    </task>
+    <task id="LOCAL-00101" summary="adding a few views">
+      <created>1451242466674</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1451242466674</updated>
+    </task>
+    <task id="LOCAL-00102" summary="adding a few views">
+      <created>1451242601322</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1451242601322</updated>
+    </task>
+    <task id="LOCAL-00103" summary="adding a few views">
+      <created>1451242628771</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1451242628772</updated>
+    </task>
+    <task id="LOCAL-00104" summary="adding a few views">
+      <created>1451243037249</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1451243037249</updated>
+    </task>
+    <task id="LOCAL-00105" summary="adding a few views">
+      <created>1451243999533</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1451243999533</updated>
+    </task>
+    <task id="LOCAL-00106" summary="adding a few views">
+      <created>1451244322390</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1451244322391</updated>
+    </task>
+    <task id="LOCAL-00107" summary="adding a few views">
+      <created>1451251098416</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251098416</updated>
+    </task>
+    <task id="LOCAL-00108" summary="adding a few views">
+      <created>1451251197092</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251197092</updated>
+    </task>
+    <task id="LOCAL-00109" summary="adding a few views">
+      <created>1451251261261</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251261261</updated>
+    </task>
+    <task id="LOCAL-00110" summary="adding a few views">
+      <created>1451251370757</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251370758</updated>
+    </task>
+    <task id="LOCAL-00111" summary="adding a few views">
+      <created>1451251573806</created>
+      <option name="number" value="00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251573806</updated>
+    </task>
+    <task id="LOCAL-00112" summary="adding a few views">
+      <created>1451251686786</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251686786</updated>
+    </task>
+    <task id="LOCAL-00113" summary="adding a few views">
+      <created>1451251961192</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1451251961193</updated>
+    </task>
+    <task id="LOCAL-00114" summary="adding a few views">
+      <created>1451252091778</created>
+      <option name="number" value="00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1451252091778</updated>
+    </task>
+    <task id="LOCAL-00115" summary="adding a few views">
+      <created>1451252159164</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1451252159164</updated>
+    </task>
+    <task id="LOCAL-00116" summary="adding a few views">
+      <created>1451252263074</created>
+      <option name="number" value="00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1451252263074</updated>
+    </task>
+    <task id="LOCAL-00117" summary="adding a few views">
+      <created>1451252899712</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1451252899712</updated>
+    </task>
+    <task id="LOCAL-00118" summary="adding a few views">
+      <created>1451253340956</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1451253340956</updated>
+    </task>
+    <task id="LOCAL-00119" summary="adding a few views">
+      <created>1451253578611</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1451253578611</updated>
+    </task>
+    <task id="LOCAL-00120" summary="adding a few views">
+      <created>1451253889882</created>
+      <option name="number" value="00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1451253889882</updated>
+    </task>
+    <task id="LOCAL-00121" summary="adding a few views">
+      <created>1451253939022</created>
+      <option name="number" value="00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1451253939022</updated>
+    </task>
+    <task id="LOCAL-00122" summary="adding a few views">
+      <created>1451253976384</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1451253976384</updated>
+    </task>
+    <task id="LOCAL-00123" summary="adding a few views">
+      <created>1451254025079</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1451254025079</updated>
+    </task>
+    <task id="LOCAL-00124" summary="adding a few views">
+      <created>1451254052962</created>
+      <option name="number" value="00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1451254052962</updated>
+    </task>
+    <task id="LOCAL-00125" summary="adding a few views">
+      <created>1451254233768</created>
+      <option name="number" value="00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1451254233768</updated>
+    </task>
+    <task id="LOCAL-00126" summary="adding a few views">
+      <created>1451254647031</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1451254647031</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43799058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="1.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding metro" />
+    <MESSAGE value="claering cache" />
+    <MESSAGE value="carousel" />
+    <MESSAGE value="adding a few views" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a few views" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/metro-schemes.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5280" selection-start-line="0" selection-start-column="5280" selection-end-line="0" selection-end-column="5280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#40#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/metro-schemes.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5280" selection-start-line="0" selection-start-column="5280" selection-end-line="0" selection-end-column="5280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/header.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="92" selection-start-line="0" selection-start-column="92" selection-end-line="0" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/metro-locale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8461539">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/metro-schemes.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5280" selection-start-line="0" selection-start-column="5280" selection-end-line="0" selection-end-column="5280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/reservation.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5243902">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <marker date="1451254641451" expanded="true" signature="126:2774" placeholder="{% block body ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/metro.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="155.04706">
+          <caret line="0" column="283919" selection-start-line="0" selection-start-column="283919" selection-end-line="0" selection-end-column="283919" />
+          <folding>
+            <element signature="e#278129#278444#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="77" column="46" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+          <folding>
+            <element signature="e#40#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/hcv_reservations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27868852">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
